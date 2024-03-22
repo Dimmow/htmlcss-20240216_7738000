@@ -1,0 +1,24 @@
+.avatar {
+    width: 102px;
+    height: 102px;
+}
+
+.avatar__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 51px;
+
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    color: green;
+}
+
+.icon:hover {
+    width: 24px;
+    height: 24px;
+    color: red;
+}
